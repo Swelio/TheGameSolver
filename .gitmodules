@@ -1,0 +1,3 @@
+[submodule "TheGameEnv"]
+	path = TheGameEnv
+	url = https://github.com/Syonder/TheGameEnv.git
